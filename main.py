@@ -1,1 +1,1 @@
-print("clique aqui para adicionar fotos")
+print("clique aqui para deletar fotos")
